@@ -22,6 +22,6 @@ Password: Test@123
 
 
 Credential for  User panel :
-Username: jdoe@gmail.com/1212343455
+Username: admin@gmail.com/1212343455
 Password: Test@123
 Or Register a new User.
